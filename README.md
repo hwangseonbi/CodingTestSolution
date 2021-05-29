@@ -2,8 +2,8 @@
 
 
 
-## 1. Programmers의 경우
 
+## 1. How To Use
 1. solutions 디렉토리에 `solution()` 함수가 포함된 파이썬 파일을 생성하세요.  
    파일명은 문제번호로 지정해주세요. 실행할 때 이를 사용합니다.
    - Baekjoon solution 디렉토리 : `solutions/baekjoon/solutions`
@@ -18,9 +18,6 @@
     - Baekjoon : `$python3 solutions baekjoon <문제번호>`
     - Programmers : `$python3 solutions programmers <문제번호>`
 
-
-
-## 2. How To Use
 ```
 $ python3 solutions -h
 
@@ -36,7 +33,7 @@ optional arguments:
   -h, --help  show this help message and exit
 ```
 
-## 3. Example
+## 2. Example
 ```
 $ python3 solutions programmers 72411
 
@@ -78,7 +75,7 @@ INPUT : {'course': [2, 3, 4], 'orders': ['XYZ', 'XWY', 'WXA'], 'result': ['WX', 
 pass
 -------------------END-----------------------
 ```
-## 4. 문제 목록
+## 3. 문제 목록
 
 | 출처 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | -- | ---- | :-- | :-- | --- | --- |
