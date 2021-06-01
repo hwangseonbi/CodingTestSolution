@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90d68be8-f696-4618-a8da-ce4c7b7a0ca5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t9lQzMnJtmTlyxo2Cv9Ydw8ycr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/solutions/programmers/testcase" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/solutions/programmers/testcase" />
+      <recent name="$PROJECT_DIR$/solutions/baekjoon/solutions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="72410" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingTestSolution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/programmers/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/__main__.py" />
+      <option name="PARAMETERS" value="programmers 72410" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.72410" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90d68be8-f696-4618-a8da-ce4c7b7a0ca5" name="Default Changelist" comment="" />
+      <created>1622189175747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622189175747</updated>
+      <workItem from="1622189180786" duration="26015000" />
+      <workItem from="1622516754263" duration="20000" />
+      <workItem from="1622522893550" duration="5145000" />
+    </task>
+    <task id="LOCAL-00001" summary="프로그래머스 코딩테스트 고득점 Kit 풀이 추가&#10;- 해시 / 완주하지 못한 선수 / 42576&#10;- 완전탐색 / 소수 찾기 / 42839&#10;- 완전탐색 / 모의고사 / 42840&#10;- 깊이/너비 우선 탐색(DFS/BFS) / 타겟 넘버 / 43165">
+      <created>1622305321050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622305321050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IDE 변경으로 인한 PyCharm 프로젝트 파일 추가&#10;- vscode -&gt; pycharm">
+      <created>1622305457770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622305457770</updated>
+    </task>
+    <task id="LOCAL-00003" summary="문제풀이 추가&#10;- Programmers 42748 (https://programmers.co.kr/learn/courses/30/lessons/42748)&#10;- Programmers 43162 (https://programmers.co.kr/learn/courses/30/lessons/43162)&#10;- Programmers 72410 (https://programmers.co.kr/learn/courses/30/lessons/72410)">
+      <created>1622527463492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622527463492</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Backjoon 문제의 경우, 문제의 input이 함수 파라미터로 들어오지않고 Standard input으로 들어온다. 그러므로 input을 받는 부분부터 구현을 시작해야한다.&#10;&#10;테스트케이스가 String형태로 들어오게끔 수정">
+      <created>1622527696902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622527696902</updated>
+    </task>
+    <task id="LOCAL-00005" summary="문제 추가&#10;- Backjoon 2178 (https://www.acmicpc.net/problem/2178)&#10;&#10;문제 업데이트&#10;- Programmers 43165 (https://programmers.co.kr/learn/courses/30/lessons/43165)&#10;  기존 조합을 이용한 풀이에서 BFS 풀이로 수정">
+      <created>1622527893618</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622527893619</updated>
+    </task>
+    <task id="LOCAL-00006" summary="IDE 프로젝트 파일을 VCS에서 제외">
+      <created>1622528056284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622528056284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="프로그래머스 코딩테스트 고득점 Kit 풀이 추가&#10;- 해시 / 완주하지 못한 선수 / 42576&#10;- 완전탐색 / 소수 찾기 / 42839&#10;- 완전탐색 / 모의고사 / 42840&#10;- 깊이/너비 우선 탐색(DFS/BFS) / 타겟 넘버 / 43165" />
+    <MESSAGE value="IDE 변경으로 인한 PyCharm 프로젝트 파일 추가&#10;- vscode -&gt; pycharm" />
+    <MESSAGE value="문제풀이 추가&#10;- Programmers 42748 (https://programmers.co.kr/learn/courses/30/lessons/42748)&#10;- Programmers 43162 (https://programmers.co.kr/learn/courses/30/lessons/43162)&#10;- Programmers 72410 (https://programmers.co.kr/learn/courses/30/lessons/72410)" />
+    <MESSAGE value="Backjoon 문제의 경우, 문제의 input이 함수 파라미터로 들어오지않고 Standard input으로 들어온다. 그러므로 input을 받는 부분부터 구현을 시작해야한다.&#10;&#10;테스트케이스가 String형태로 들어오게끔 수정" />
+    <MESSAGE value="문제 추가&#10;- Backjoon 2178 (https://www.acmicpc.net/problem/2178)&#10;&#10;문제 업데이트&#10;- Programmers 43165 (https://programmers.co.kr/learn/courses/30/lessons/43165)&#10;  기존 조합을 이용한 풀이에서 BFS 풀이로 수정" />
+    <MESSAGE value="IDE 프로젝트 파일을 VCS에서 제외" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDE 프로젝트 파일을 VCS에서 제외" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solutions/baekjoon/solutions/2178.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solutions/programmers/solutions/43165.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solutions/programmers/solutions/43165.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solutions/programmers/solutions/43162.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solutions/programmers/solutions/43162.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodingTestSolution$42576.coverage" NAME="43162 Coverage Results" MODIFIED="1622477252914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/programmers/solutions" />
+    <SUITE FILE_PATH="coverage/CodingTestSolution$43162.coverage" NAME="72410 Coverage Results" MODIFIED="1622527305020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/programmers/solutions" />
+  </component>
+</project>
