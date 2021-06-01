@@ -20,7 +20,7 @@ INPUT : %s\n\
         print(test_case_str)
 
         testcase_output = test_case.pop("output")
-        answer = solution_modele.solution(**test_case)
+        answer = solution_modele.input_from_str(**test_case)
 
         print("\n-------------------RESULT--------------------")
         if answer == testcase_output:
@@ -30,4 +30,4 @@ INPUT : %s\n\
             print("- Your answer : %s" % answer)
             print("- Actual answer : %s" % testcase_output)
         print("-------------------END-----------------------")
-        print("\n\n\n\n\n\n\n\n")
+        print("\n\n")

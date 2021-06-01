@@ -30,4 +30,4 @@ INPUT : %s\n\
             print("- Your answer : %s" % answer)
             print("- Actual answer : %s" % testcase_result)
         print("-------------------END-----------------------")
-        print("\n\n\n\n\n\n\n\n")
+        print("\n\n")
