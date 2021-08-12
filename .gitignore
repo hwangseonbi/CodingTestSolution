@@ -132,3 +132,6 @@ dmypy.json
 
 # PyCharm IDE project files
 .idea/
+
+#코딩 테스트 기출
+test/

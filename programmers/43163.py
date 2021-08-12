@@ -36,3 +36,18 @@ def solution(begin, target, words):
             q.append((words[i], new_visited_info))
 
     return answer
+
+
+TEST_CASES = [
+    {
+        "begin": "hit",
+        "target": "cog",
+        "words": ["hot", "dot", "dog", "lot", "log", "cog"],
+        "result": 4
+    }, {
+        "begin": "hit",
+        "target": "cog",
+        "words": ["hot", "dot", "dog", "lot", "log"],
+        "result": 0
+    }
+]

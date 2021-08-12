@@ -27,3 +27,14 @@ def solution(numbers):
     answer = len(prime_numbers)
 
     return answer
+
+
+TEST_CASES = [
+    {
+        "numbers": "17",
+        "result": 3
+    },{
+        "numbers": "011",
+        "result": 2
+    },
+]

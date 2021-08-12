@@ -36,3 +36,11 @@ def solution(numbers, target):
     DFS(0, numbers, target, 0)
     return answer
 
+
+TEST_CASES = [
+    {
+        "numbers": [1, 1, 1, 1, 1],
+        "target": 3,
+        "result": 5
+    }
+]
