@@ -37,7 +37,7 @@
 | - | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | level3 | O |  [43162.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/43162.py)|
 | - | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | level3 | O |  [43163.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/43163.py)|
 | - | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) | level3 | O |  [81303.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/81303.py)|
-| 최단거리, 다 | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | level3 | O |  [72413.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/72413.py)|
+| 최단거리, 다익스트라 | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | level3 | O |  [72413.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/72413.py)|
 
 
 
