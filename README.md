@@ -45,6 +45,7 @@
 | 2020 카카오 인턴십 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | - | O |  [67256.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/67256.py)|
 
 ### 커밋메시지 포멧
+프로그래머스 <문제번호> 추가
 <프로그래머스 or 백준> <문제번호>
 - <분류>
 - <문제이름>
