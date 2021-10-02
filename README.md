@@ -41,7 +41,8 @@
 | 다익스트라, 최단거리 | [미로찾기](https://programmers.co.kr/learn/courses/30/lessons/81304) | level4 | X |  [81304.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/81304.py)|
 | 이분탐색 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | level3 | O |  [43238.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/43238.py)|
 | 깊이/너비 우선 탐색(DFS/BFS) | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | level3 | O |  [43164.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/43164.py)|
-
+| 완전탐색 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | level2 | O |  [42842.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/42842.py)|
+| 2020 카카오 인턴십 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | - | O |  [67256.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/67256.py)|
 
 ### 커밋메시지 포멧
 <프로그래머스 or 백준> <문제번호>
