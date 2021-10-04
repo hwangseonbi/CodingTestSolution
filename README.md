@@ -1,5 +1,13 @@
 # CodingTestSolution
 
+
+## LeetCode
+
+| 분류 | 문제 링크 | 난이도 | 완료 | 풀이 |
+|-----|--------|-------|-----|-----|
+| 수학, 구현 | [400. Nth Digit](https://leetcode.com/problems/nth-digit) | Medium | O | [400.py](leetcode/400.py)|
+
+
 ## 백준
 
 | 분류 | 문제 링크 | 난이도 | 완료 | 풀이 |
@@ -45,12 +53,12 @@
 | 2020 카카오 인턴십 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | - | O |  [67256.py](https://github.com/hwangseonbi/CodingTestSolution/blob/main/programmers/67256.py)|
 
 ### 커밋메시지 포멧
-프로그래머스 <문제번호> 추가
+문제풀이 추가
 
-<프로그래머스 or 백준> <문제번호>
+<출처> <문제번호>
 - <분류>
 - <문제이름>
 - <레벨>
-- <링크>
+- <문제링크>
 
 
