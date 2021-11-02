@@ -7,6 +7,15 @@
 |-----|--------|-------|-----|-----|
 | 수학, 구현 | [400. Nth Digit](https://leetcode.com/problems/nth-digit) | Medium | O | [400.py](leetcode/400.py)|
 
+## HackerRank
+
+| 분류 | 문제 링크 | 난이도 | 완료 | 풀이 |
+|-----|--------|-------|-----|-----|
+| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [minMaxSum.py](hackerrank/minMaxSum.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [plusMinus.py](hackerrank/plusMinus.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [timeConversion.py](hackerrank/timeConversion.py)|
+
+
 
 ## 백준
 
