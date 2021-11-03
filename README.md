@@ -11,9 +11,14 @@
 
 | 분류 | 문제 링크 | 난이도 | 완료 | 풀이 |
 |-----|--------|-------|-----|-----|
-| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [minMaxSum.py](hackerrank/minMaxSum.py)|
-| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [plusMinus.py](hackerrank/plusMinus.py)|
-| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [timeConversion.py](hackerrank/timeConversion.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [minMaxSum.py](hackerrank/preperation/minMaxSum.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [plusMinus.py](hackerrank/preperation/plusMinus.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [timeConversion.py](hackerrank/preperation/timeConversion.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day1](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges) | Basic | O | [timeConversion.py](hackerrank/preperation/timeConversion.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day2](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-two/challenges) | Basic | O | [countingSort1.py](hackerrank/preperation/countingSort1.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day2](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-two/challenges) | Basic | O | [diagonalDifference.py](hackerrank/preperation/diagonalDifference.py)|
+| 수학, 구현 | [1-Week-Preparation-Kit Day2](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-two/challenges) | Basic | O | [lonelyInteger.py](hackerrank/preperation/lonelyInteger.py)|
+
 
 
 
